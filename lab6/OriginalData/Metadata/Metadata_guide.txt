@@ -1,0 +1,16 @@
+# Laboratorium 6 - TIER protocol i tidy data
+
+Original data tb.csv is available in /OriginalData folder. It contains information about vacuum cleaners' ratings from Śląsk and buyers' data
+
+- /AnalysisData/slaskie.csv - file contains information from slaskie.csv imported from: 
+
+https://raw.githubusercontent.com/KAIR-ISZ-ADB/laboratorium-6-Tohrovin/main/11_S%E2%95%A0%C3%BCLA%E2%95%A0%C4%98SKIE.csv?token=GHSAT0AAAAAAB3AQFCJ7GPNSUQLXVKFBOYEY3MVO7A
+
+
+ Headers of file are:
+	-Column1 - contains enumaration of differen rows
+	-Dni od zakupu - days from the purchase
+	-Marka - vacuum's brand
+	-Wiek kupujĄcego - buyer's age
+	-Pe† kupujĄcego - buyer's gender
+	-Ocena - buyer's rating
